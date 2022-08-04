@@ -15,7 +15,7 @@ This reading group focuses on academic search.
 |:----------------:|:----------------------------------------:|:----------:|:------:|
 | 10/08/2022 | kick-off meeting |  | 
 | 17/08/2022 | [Visual Search for Supporting Content Exploration in Large Document Collections](http://dlib.org/dlib/july12/herrmannova/07herrmannova.html) | Wojciech | 
-| 24/08/2022 | tba | Oscar | 
+| 24/08/2022 | [Visually Linked Keywords to Support Exploratory Browsing](https://dl.acm.org/doi/abs/10.1145/3406522.3446037?casa_token=a8vh3kCznUEAAAAA:snm6wPXBJK05UEtkoC21esM17WbaFh2za1DDaFEmSlKkzvNR9UyeSqIhz7gqQfa1FM7al-5vp8mif2o) | Oscar | 
 | 31/08/2022 | [Searching the Literature: An Analysis of an Exploratory Search Task](https://dl.acm.org/doi/abs/10.1145/3498366.3505818) | Ayah | 
 | 07/09/2022 | tba |  | 
 
