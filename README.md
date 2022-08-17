@@ -1,4 +1,4 @@
-# scholarly_articles_collections
+# Scholarly Articles Collections
 Publicly available scholarly articles collections for NLP/IR applications
 
 
