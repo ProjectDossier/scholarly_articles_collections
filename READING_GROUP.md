@@ -18,6 +18,9 @@ This reading group focuses on academic search.
 | 24/08/2022 | [Visually Linked Keywords to Support Exploratory Browsing](https://dl.acm.org/doi/abs/10.1145/3406522.3446037?casa_token=a8vh3kCznUEAAAAA:snm6wPXBJK05UEtkoC21esM17WbaFh2za1DDaFEmSlKkzvNR9UyeSqIhz7gqQfa1FM7al-5vp8mif2o) | Oscar | 
 | 31/08/2022 | [Searching the Literature: An Analysis of an Exploratory Search Task](https://dl.acm.org/doi/abs/10.1145/3498366.3505818) | Ayah | 
 | 07/09/2022 | tba |  | 
+| 14/09/2022 | tba |  | 
+| 21/09/2022 | [Google Scholar to overshadow them all? Comparing the sizes of 12 academic search engines and bibliographic databases](https://link.springer.com/article/10.1007/s11192-018-2958-5/) |  Wojciech | 
+| 28/09/2022 | DoSSIER summer school | - | 
 
 
 ## Pool of papers:
@@ -25,7 +28,6 @@ This reading group focuses on academic search.
 - [Construction of the Literature Graph in Semantic Scholar](https://arxiv.org/abs/1805.02262)
 - [Developing a Test Collection for the Evaluation of Integrated Search](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.477.1982&rep=rep1&type=pdf)
 - [Explicit Semantic Ranking for Academic Search via Knowledge Graph Embedding](https://dl.acm.org/doi/10.1145/3038912.3052558)
-- [Google Scholar to overshadow them all? Comparing the sizes of 12 academic search engines and bibliographic databases](https://link.springer.com/article/10.1007/s11192-018-2958-5/)
 - [Methods for estimating the size of Google Scholar](https://link.springer.com/article/10.1007/s11192-015-1614-6)
 - ...
 
