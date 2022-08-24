@@ -29,5 +29,8 @@ This reading group focuses on academic search.
 - [Developing a Test Collection for the Evaluation of Integrated Search](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.477.1982&rep=rep1&type=pdf)
 - [Explicit Semantic Ranking for Academic Search via Knowledge Graph Embedding](https://dl.acm.org/doi/10.1145/3038912.3052558)
 - [Methods for estimating the size of Google Scholar](https://link.springer.com/article/10.1007/s11192-015-1614-6)
+- [Learning assessments in search-as-learning: A survey of prior work and opportunities for future research](https://www.sciencedirect.com/science/article/pii/S0306457321002946)
+- [A study of visually linked keywords to support exploratory browsing in academic search](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.24623) - follow up from 24/08/2022
+- [A study of the use of simulated work task situations in interactive information retrieval evaluations: A meta-evaluation](https://www.emerald.com/insight/content/doi/10.1108/JD-06-2015-0068/full/html)
 - ...
 
