@@ -17,7 +17,7 @@ This reading group focuses on academic search.
 | 17/08/2022 | [Visual Search for Supporting Content Exploration in Large Document Collections](http://dlib.org/dlib/july12/herrmannova/07herrmannova.html) | Wojciech | 
 | 24/08/2022 | [Visually Linked Keywords to Support Exploratory Browsing](https://dl.acm.org/doi/abs/10.1145/3406522.3446037?casa_token=a8vh3kCznUEAAAAA:snm6wPXBJK05UEtkoC21esM17WbaFh2za1DDaFEmSlKkzvNR9UyeSqIhz7gqQfa1FM7al-5vp8mif2o) | Oscar | 
 | 31/08/2022 | [Searching the Literature: An Analysis of an Exploratory Search Task](https://dl.acm.org/doi/abs/10.1145/3498366.3505818) | Ayah | 
-| 07/09/2022 | tba | Tobias | 
+| 07/09/2022 | [LinkBERT: Pretraining Language Models with Document Links](https://aclanthology.org/2022.acl-long.551/) | Tobias | 
 | 14/09/2022 | tba |  | 
 | 21/09/2022 | [Google Scholar to overshadow them all? Comparing the sizes of 12 academic search engines and bibliographic databases](https://link.springer.com/article/10.1007/s11192-018-2958-5/) |  Wojciech | 
 | 28/09/2022 | DoSSIER summer school | - | 
